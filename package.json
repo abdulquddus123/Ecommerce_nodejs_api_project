@@ -1,0 +1,28 @@
+{
+  "name": "test_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "content-length": "^1.0.1",
+    "cors": "^2.8.5",
+    "crypto-js": "^3.1.9-1",
+    "date-and-time": "^0.6.3",
+    "dateformat": "^3.0.3",
+    "express": "^4.16.4",
+    "json-parser": "^1.1.5",
+    "lodash": "^4.17.11",
+    "md5": "^2.2.1",
+    "moment": "^2.24.0",
+    "morgan": "^1.9.1",
+    "multer": "^1.4.1",
+    "mysql": "^2.16.0",
+    "rand-token": "^0.4.0"
+  }
+}
